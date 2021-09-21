@@ -2,9 +2,9 @@
   "compilerOptions": {
     "target": "es5",
     "lib": ["dom", "dom.iterable", "esnext"],
-    "paths": {
-      "run-wasm": ["../*"]
-    },
+    // "paths": {
+    //   "run-wasm": ["../*"]
+    // },
     "allowJs": true,
     "skipLibCheck": true,
     "strict": false,
