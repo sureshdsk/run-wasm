@@ -18,5 +18,6 @@
     "allowSyntheticDefaultImports": true
   },
   "include": ["src"],
-  "exclude": ["node_modules", "lib", "example-nextjs"]
+  "exclude": ["node_modules", "lib", "example-nextjs"],
+  "typeRoots": ["./node_modules/@types"]
 }
